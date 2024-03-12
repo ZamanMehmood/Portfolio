@@ -1,0 +1,4 @@
+.pcard:hover {
+    transform: translate(-10px, -10px); /* Translate card slightly to left and top on hover */
+  }
+  
