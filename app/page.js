@@ -45,13 +45,7 @@ export default function Home() {
             Software Engineer
           </h3>
           <p className="font-normal text-xl py-5 leading-8 text-slate-800 dark:text-white lg:max-w-2xl mx-auto">
-          Hello, it's a pleasure to meet you! I hold a degree in Computer Engineering and have over two years of industry experience. Currently, I operate as an independent freelancer committed to delivering top-notch software solutions. I'm excited about the opportunity to collaborate on your project!
-
-
-
-
-
-
+          Hello, it's a pleasure to meet you! I hold a degree in Computer Engineering and have over five years of industry experience. Currently, I operate as an independent freelancer committed to delivering top-notch software solutions. I'm excited about the opportunity to collaborate on your project!
           </p>
         </div>
         <div className="flex justify-center text-5xl text-gray-600 gap-11 py-3">
